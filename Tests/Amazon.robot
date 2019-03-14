@@ -17,7 +17,7 @@ ${DESIRED_CAPABILITIES} =  name:Win7 + Chrome,platform:Windows 7,browserName:chr
 *** Test Cases ***
 User can search for products
     [Documentation]  Descripción del testcase
-    [Tags]  Smoke
+    [Tags]  Smoke Products
     AmazonApp.Search for Products
 
 #User must sign in to check out
