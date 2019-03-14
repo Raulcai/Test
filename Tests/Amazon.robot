@@ -22,7 +22,7 @@ User can search for products
 
 #User must sign in to check out
 #    [Documentation]  Descripción del testcase
-#    [Tags]  Smoke
+#    [Tags]  Smoke Test
 #    AmazonApp.Search for Products
 #    AmazonApp.Select Product from Search Results
 #    AmazonApp.Add Product to Cart
